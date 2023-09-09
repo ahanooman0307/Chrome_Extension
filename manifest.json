@@ -1,0 +1,11 @@
+{
+    "name": "Inspiring Quotes",
+    "version": "1.0.0",
+    "description": "This is an extenstion to receive inspiring quotes",
+    "manifest_version": 3,
+    "author": "Akshay Hanooman",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Inspiring Quotes"
+    }
+}
